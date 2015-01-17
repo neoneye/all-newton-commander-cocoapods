@@ -24,11 +24,11 @@ Pod::Spec.new do |s|
 	 Supports multi-window drag-and-drop reordering of the tabs with aqua-licious animation.
 
      DESC
-  s.homepage     = "https://github.com/neoneye/PSMTabBarControl"
-  s.screenshots  = "https://raw.github.com/neoneye/PSMTabBarControl/master/Documents/screenshot1.png"
+  s.homepage     = "https://github.com/neoneye/newton-commander-tabbarcontrol"
+  s.screenshots  = "https://raw.github.com/neoneye/newton-commander-tabbarcontrol/master/Documents/screenshot1.png"
   s.license      = 'BSD'
   s.author       = { "Simon Strandgaard" => "simon@opcoders.com" }
-  s.source       = { :git => "https://github.com/neoneye/PSMTabBarControl.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/neoneye/newton-commander-tabbarcontrol.git", :tag => s.version.to_s }
   s.platform     = :osx, '10.9'
   s.osx.deployment_target = '10.9'
   s.requires_arc = true
