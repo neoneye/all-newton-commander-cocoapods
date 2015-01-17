@@ -1,8 +1,10 @@
 Pod::Spec.new do |s|
-  s.name         = "PSMTabBarControl"
-  s.version      = "1.0.4"
+  s.name         = "newton-commander-tabbarcontrol"
+  s.version      = "1.0.5"
   s.summary      = "Safari-style tabs"
   s.description  = <<-DESC
+	 newton-commander-tabbarcontrol is a fork of PSMTabBarControl. It is used by Newton Commander.
+	 
 	 PSMTabBarControl seeks to provide developers with a high-quality, 
 	 easy to use GUI to manage an NSTabView (or subclasses) in a manner 
 	 similar to Safari's tabbed browsing implementation.  
